@@ -4,9 +4,9 @@
 
 A professional approach to web development by generating a wireframe document from a provided specification. This wireframe will only use HTML and CSS.
 
-### Author: Christopher Quiocho
+### Author: James Swift
 
-Pair Programming: James Swift
+Pair Programming: Christopher Quiocho
 
 ### Links and Resources
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
